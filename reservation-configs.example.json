@@ -1,0 +1,26 @@
+[
+  {
+    "instanceShape": "VM.Standard.E5.Flex",
+    "instanceShapeConfig": {
+      "ocpus": 2,
+      "memoryInGBs": 16
+    },
+    "reservedCount": 3
+  },
+  {
+    "instanceShape": "VM.Standard.E5.Flex",
+    "instanceShapeConfig": {
+      "ocpus": 2,
+      "memoryInGBs": 32
+    },
+    "reservedCount": 2
+  },
+  {
+    "instanceShape": "VM.Standard.E6.Flex",
+    "instanceShapeConfig": {
+      "ocpus": 4,
+      "memoryInGBs": 64
+    },
+    "reservedCount": 1
+  }
+]
