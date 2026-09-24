@@ -11,8 +11,8 @@ Before running it, edit the variable block near the top of
 
 ```bash
 COMPARTMENT_ID="ocid1.compartment.oc1..your-compartment-ocid"
-AVAILABILITY_DOMAIN="kIdk:US-ASHBURN-AD-1"
-DISPLAY_NAME="k8s-capacity-reservation"
+AVAILABILITY_DOMAIN="availability-domain-name"
+DISPLAY_NAME="capacity-reservation-name"
 CONFIGS_FILE="$script_dir/reservation-configs.example.json"
 PROFILE="DEFAULT"
 REGION=""
